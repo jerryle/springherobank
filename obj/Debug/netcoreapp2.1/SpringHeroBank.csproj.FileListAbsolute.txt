@@ -1,0 +1,11 @@
+E:\CSharpProjects\SpringHeroBank\obj\Debug\netcoreapp2.1\SpringHeroBank.csprojAssemblyReference.cache
+E:\CSharpProjects\SpringHeroBank\obj\Debug\netcoreapp2.1\SpringHeroBank.csproj.CoreCompileInputs.cache
+E:\CSharpProjects\SpringHeroBank\obj\Debug\netcoreapp2.1\SpringHeroBank.AssemblyInfoInputs.cache
+E:\CSharpProjects\SpringHeroBank\obj\Debug\netcoreapp2.1\SpringHeroBank.AssemblyInfo.cs
+E:\CSharpProjects\SpringHeroBank\bin\Debug\netcoreapp2.1\SpringHeroBank.deps.json
+E:\CSharpProjects\SpringHeroBank\bin\Debug\netcoreapp2.1\SpringHeroBank.runtimeconfig.json
+E:\CSharpProjects\SpringHeroBank\bin\Debug\netcoreapp2.1\SpringHeroBank.runtimeconfig.dev.json
+E:\CSharpProjects\SpringHeroBank\bin\Debug\netcoreapp2.1\SpringHeroBank.dll
+E:\CSharpProjects\SpringHeroBank\bin\Debug\netcoreapp2.1\SpringHeroBank.pdb
+E:\CSharpProjects\SpringHeroBank\obj\Debug\netcoreapp2.1\SpringHeroBank.dll
+E:\CSharpProjects\SpringHeroBank\obj\Debug\netcoreapp2.1\SpringHeroBank.pdb
